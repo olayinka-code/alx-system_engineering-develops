@@ -1,4 +1,2 @@
 #!/bin/bash
-olayinka-code
-cd /alx-system_engineering-develops
-echo "change working directory to /alx-system_engineering-develops
+cd ~
